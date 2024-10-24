@@ -56,7 +56,7 @@
     <img align="center" alt="visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg">
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" alt="PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg">
-    <img align="center" alt="RabbitMQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbit/rabbit-original.svg">
+    <img align="center" alt="RabbitMQ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg">
   </div>
   
   <!-- Skills: Libraries -->
