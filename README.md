@@ -28,7 +28,6 @@
 
 <!-- GithubStats -->
 ![RLemess GitHub stats](https://github-readme-stats.vercel.app/api?username=rlemess&show_icons=true&theme=tokyonight)
-[![RLemess's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlemes)](https://github.com/rlemess/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
