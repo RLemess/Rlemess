@@ -26,8 +26,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rlemes/profilecard)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lemes-2ba14b2b0/)
 
-<!-- GithubStats -->
-![RLemess GitHub stats](https://github-readme-stats.vercel.app/api?username=rlemess&show_icons=true&theme=tokyonight)
 
 <!-- Portfolio -->
 ## Portfolio:
@@ -35,7 +33,8 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 </p>
 
@@ -66,5 +65,9 @@
     <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 
+    
+
+  <!-- GithubStats -->
+![RLemess GitHub stats](https://github-readme-stats.vercel.app/api?username=rlemess&show_icons=true&theme=tokyonight)
     
   </div>
