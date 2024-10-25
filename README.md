@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="(https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)>
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
 
 ## 🔥 Skills
@@ -65,5 +65,5 @@
     <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 
-  
+    
   </div>
