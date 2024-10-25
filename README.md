@@ -64,4 +64,6 @@
     <h3>Libraries</h3>
     <img align="center" alt="Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+
+    https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif?cid=ecf05e477otvh0nelae46dnenuxxf3oppvn6kuo9ouy40a7a&ep=v1_gifs_search&rid=giphy.gif&ct=g
   </div>
