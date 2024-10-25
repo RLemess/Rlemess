@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Rafael! A passionate technology student from Brazil, who has a passion for leading people passionat.
+  Hi 👋, I'm Rafael! A technology enthusiast who constantly seeks new learning.
 
   - 🌱 I am currently studying Systems Analysis and Development. And my first contact in the market was with a company called Keepins from São Paulo, SP.
 
@@ -19,7 +19,7 @@
 
   - 💬 I am 29 years old and currently live in Brazil. I have some experience with SQL, Python, Data Analysis, Back-End and Front-End. I am also passionate about creating relationships and leading with a focus on people
 
-  - ⚡ Passionate about sports and people! I like reading, whether it's a good book, manga or comics. I believe that our personal interests contribute to a more accurate perception of things and to solving problems.
+  - ⚡ Passionate about sports and people! I like reading, whether it's a good history book, manga or comic book. I believe that our personal interests contribute to a more accurate perception of things and problem solving.
 </details>
 
 <!-- Links -->
@@ -46,7 +46,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->
