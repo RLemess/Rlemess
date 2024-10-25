@@ -35,7 +35,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https:[//github.com/user-attachments/assets/28919e70-e17d-4d3b-9c2a-17e8428d8cc9](https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif)" alt="Imagem">
+  <img align="center" src="[https://github.com/user-attachments/assets/28919e70-e17d-4d3b-9c2a-17e8428d8cc9]" alt="Imagem">
 
 </p>
 
