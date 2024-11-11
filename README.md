@@ -10,7 +10,7 @@
 
   - 🌱 I am currently studying Systems Analysis and Development. And my first contact in the market was with a company called Keepins from São Paulo, SP.
 
-  - 🔭 I will grow a lot in the area. My dream is to one day work with Cloud and AI.
+  - 🔭 I will grow a lot in the area. My dream is to one day work with Cloud Computing.
 </p>
 
 <!-- Dropdown -->
